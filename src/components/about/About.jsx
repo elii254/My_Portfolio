@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/mee.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -46,9 +46,10 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Itaque tenetur, voluptates quos cumque sapiente nulla optio unde non culpa odio praesentium tempore,
-             mollitia eos quas maxime rerum inventore adipisci et.
+          I am a full-stack software developer with experience building applications for both mobile and web platforms. 
+          My technology stack includes Angular, Python, React JS, Vue JS, YII2, Laravel,  and Spring.
+          I am also a seasoned UI/UX designer who has a keen eye for appealing, functional and easy to use interfaces. 
+          I love applying both design and technical skills in every project I take on.
           </p>
 
           <a href='#contacts' className='btn btn-primary'>lets Talk</a>

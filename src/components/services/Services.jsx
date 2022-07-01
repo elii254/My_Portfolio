@@ -19,33 +19,25 @@ function Services() {
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Information architecture.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> User Research - Focuses on understanding user behaviors, needs through observations.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> UX Strategy.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Usability Testing - consists of evaluating a product by testing it with your target users .</p> 
           </li>
 
-          <li>
-               <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
-          </li>
-
-          <li>
-               <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
-          </li>
+          
 
          
 
@@ -65,32 +57,32 @@ function Services() {
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Custom Website Development.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Website Maintenance.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> E-commerce Website Development.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Blog Customization or Management.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Graphic Design.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Word processing software.</p> 
           </li>
 
          
@@ -112,32 +104,32 @@ function Services() {
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Competitor Gap Content Outlines.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Long-form content.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Animated Explainer Videos.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Competitor Content Gap Intelligence Report.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Online project management schedule.</p> 
           </li>
 
           <li>
                <BiCheck className='service__list-icon' />
-              <p> Lorem ipsum dolor, sit amet consectetur adipisicing.</p> 
+              <p> Inforgrapgics .</p> 
           </li>
 
          

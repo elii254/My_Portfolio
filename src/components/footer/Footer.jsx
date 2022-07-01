@@ -8,7 +8,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 function Footer() {
   return (
     <footer>
-      <a href="" className="footer__logo">EGATOR</a>
+      <a href="" className="footer__logo">@ELii254</a>
 
       <ul className="permalinks">
 
